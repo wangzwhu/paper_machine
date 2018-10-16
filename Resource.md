@@ -6,7 +6,7 @@
         [3]
 	* Person Re-identification  
         [4]
-	* Object Detection
+	* Object Detection   
 		[5]
 	* 
 	
