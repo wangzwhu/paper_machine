@@ -3,24 +3,26 @@
 	* Face Recognition  
         [1][2][6]
 	* Image Caption  
-        [3]
+        [3]  
 	* Person Re-identification  
-        [4]
+        [4][7]  
 	* Object Detection   
-		[5]
+		[5]  
+	* Instance Segmentation   
+		[8]  
 	* 
 	
 
 
 * Method     
-	* Loss Design  
+	* Loss Design   
 	    [1][5]   
-	* Attention  
-        [3]
+	* Attention   
+        [3] 
 	* GAN  
-        [4]
-	* Domain Adaption  
-	    [4][6]
+        [4][7][8]  
+	* Domain Adaption   
+	    [4][6][7]    
 	* 
 
  
@@ -31,3 +33,5 @@
 [4] ECCV'18: [Generalizing A Person Retrieval Model Hetero- and Homogeneously](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhun_Zhong_Generalizing_A_Person_ECCV_2018_paper.pdf) | ANU | [Code](https://github.com/zhunzhong07/HHL)      
 [5] CVPR'18: [Repulsion Loss: Detecting Pedestrians in a Crowd](https://arxiv.org/abs/1711.07752) | Face++ | [Resource](https://zhuanlan.zhihu.com/p/36797756) | [Code](https://github.com/bailvwangzi/repulsion_loss_ssd)   
 [6] Arxiv'18: [DocFace: Matching ID Document Photos to Selfies](https://arxiv.org/abs/1805.02283) | MSU | [Code](https://github.com/seasonSH/DocFace)  
+[7] CVPR'18: [Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_Image-Image_Domain_Adaptation_CVPR_2018_paper.pdf) | ANU | [Code](https://github.com/Simon4Yan/Learning-via-Translation)       
+[8] ACM MM'18: [Understanding Humans in Crowded Scenes: Deep Nested Adversarial Learning and A New Benchmark for Multi-Human Parsing](https://arxiv.org/abs/1804.03287) | NUS | [Resource](https://lv-mhp.github.io/) | [Code](https://github.com/ZhaoJ9014/Multi-Human-Parsing_MHP)   
