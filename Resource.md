@@ -5,7 +5,7 @@
 	* Image Caption  
         [3]  
 	* Person Re-identification  
-        [4][7]  
+        [4][7][10]  
 	* Object Detection   
 		[5]  
 	* Instance Segmentation   
@@ -20,9 +20,9 @@
 	* Attention   
         [3] 
 	* GAN  
-        [4][7][8]  
+        [4][7][8][9]  
 	* Domain Adaption   
-	    [4][6][7]    
+	    [4][6][7][9]      
 	* 
 
  
@@ -35,3 +35,5 @@
 [6] Arxiv'18: [DocFace: Matching ID Document Photos to Selfies](https://arxiv.org/abs/1805.02283) | MSU | [Code](https://github.com/seasonSH/DocFace)  
 [7] CVPR'18: [Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_Image-Image_Domain_Adaptation_CVPR_2018_paper.pdf) | ANU | [Code](https://github.com/Simon4Yan/Learning-via-Translation)       
 [8] ACM MM'18: [Understanding Humans in Crowded Scenes: Deep Nested Adversarial Learning and A New Benchmark for Multi-Human Parsing](https://arxiv.org/abs/1804.03287) | NUS | [Resource](https://lv-mhp.github.io/) | [Code](https://github.com/ZhaoJ9014/Multi-Human-Parsing_MHP)   
+[9] NIPS'18: [A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation](https://arxiv.org/abs/1809.01361) | NTU, Taiwan | [Code](https://github.com/Alexander-H-Liu/UFDN)     
+[10] ECCV'18: [Person Search via A Mask-Guided Two-Stream CNN Model](https://arxiv.org/abs/1807.08107) | NUST | [Resource](https://zhuanlan.zhihu.com/p/39282286)   
