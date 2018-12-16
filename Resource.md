@@ -1,7 +1,12 @@
+* How to write good papers
+	* [Good Citizen of CVPR](https://www.cc.gatech.edu/~parikh/citizenofcvpr/) at CVPR 2018 in Salt Lake City, Utah
+	* 
 
 * Application  
 	* Face Recognition  
         [1][2][6]
+	* Face Super-Resolution  
+        [11]
 	* Image Caption  
         [3]  
 	* Person Re-identification  
@@ -12,8 +17,6 @@
 		[8]  
 	* 
 	
-
-
 * Method     
 	* Loss Design   
 	    [1][5]   
@@ -25,8 +28,6 @@
 	    [4][6][7][9]      
 	* 
 
- 
-
 [1] ECCV'18: [Orthogonal Deep Features Decomposition for Age-Invariant Face Recognition](http://openaccess.thecvf.com/content_ECCV_2018/html/yitong_wang_Orthogonal_Deep_Features_ECCV_2018_paper.html) | Tencent AI   
 [2] ECCV'18: [GridFace: Face Rectification via Learning Local Homography Transformations](https://arxiv.org/abs/1808.06210) | Face++ | [Resource](https://www.toutiao.com/a6596550630628655623/)    
 [3] CVPR'17: [SCA-CNN: Spatial and Channel-wise Attention in Convolutional Networks for Image Captioning](https://arxiv.org/abs/1611.05594) | NUS | [Resource](https://blog.csdn.net/u014380165/article/details/78681164) | [Code](https://github.com/zjuchenlong/sca-cnn.cvpr17)   
@@ -37,3 +38,4 @@
 [8] ACM MM'18: [Understanding Humans in Crowded Scenes: Deep Nested Adversarial Learning and A New Benchmark for Multi-Human Parsing](https://arxiv.org/abs/1804.03287) | NUS | [Resource](https://lv-mhp.github.io/) | [Code](https://github.com/ZhaoJ9014/Multi-Human-Parsing_MHP)   
 [9] NIPS'18: [A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation](https://arxiv.org/abs/1809.01361) | NTU, Taiwan | [Code](https://github.com/Alexander-H-Liu/UFDN)     
 [10] ECCV'18: [Person Search via A Mask-Guided Two-Stream CNN Model](https://arxiv.org/abs/1807.08107) | NUST | [Resource](https://zhuanlan.zhihu.com/p/39282286)   
+[11] CVPR'18: [FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors](https://arxiv.org/abs/1711.10703) | NUST | [Resource](https://blog.csdn.net/GunGunSeeBlood/article/details/82975076) | [Code](https://github.com/tyshiwo/FSRNet)      
