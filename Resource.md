@@ -1,6 +1,7 @@
 * How to write good papers
 	* [Good Citizen of CVPR](https://www.cc.gatech.edu/~parikh/citizenofcvpr/) at CVPR 2018 in Salt Lake City, Utah
-	* 
+	* [How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/) by Microsoft Research
+	
 
 * Application  
 	* Face Recognition  
@@ -10,24 +11,25 @@
 	* Image Caption  
         [3]  
 	* Person Re-identification  
-        [4][7][10]  
+        [4][7][10][12]  
 	* Object Detection   
 		[5]  
-	* Instance Segmentation   
-		[8]  
-	* 
+	* Image/Instance Segmentation   
+		[8][13]  
 	
 * Method     
 	* Loss Design   
 	    [1][5]   
 	* Attention   
-        [3] 
+        [3][13]  
 	* GAN  
         [4][7][8][9]  
 	* Domain Adaption   
 	    [4][6][7][9]      
-	* 
+	* Clustering   
+	    [12] 
 
+		
 [1] ECCV'18: [Orthogonal Deep Features Decomposition for Age-Invariant Face Recognition](http://openaccess.thecvf.com/content_ECCV_2018/html/yitong_wang_Orthogonal_Deep_Features_ECCV_2018_paper.html) | Tencent AI   
 [2] ECCV'18: [GridFace: Face Rectification via Learning Local Homography Transformations](https://arxiv.org/abs/1808.06210) | Face++ | [Resource](https://www.toutiao.com/a6596550630628655623/)    
 [3] CVPR'17: [SCA-CNN: Spatial and Channel-wise Attention in Convolutional Networks for Image Captioning](https://arxiv.org/abs/1611.05594) | NUS | [Resource](https://blog.csdn.net/u014380165/article/details/78681164) | [Code](https://github.com/zjuchenlong/sca-cnn.cvpr17)   
@@ -39,3 +41,5 @@
 [9] NIPS'18: [A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation](https://arxiv.org/abs/1809.01361) | NTU, Taiwan | [Code](https://github.com/Alexander-H-Liu/UFDN)     
 [10] ECCV'18: [Person Search via A Mask-Guided Two-Stream CNN Model](https://arxiv.org/abs/1807.08107) | NUST | [Resource](https://zhuanlan.zhihu.com/p/39282286)   
 [11] CVPR'18: [FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors](https://arxiv.org/abs/1711.10703) | NUST | [Resource](https://blog.csdn.net/GunGunSeeBlood/article/details/82975076) | [Code](https://github.com/tyshiwo/FSRNet)      
+[12] AAAA'19: [A Bottom-up Clustering Approach to Unsupervised Person Re-identification](http://xuanyidong.com/pdf/AAAI19-vana.pdf) | UTS    
+[13] CVPR'16: [Attention to Scale: Scale-aware Semantic Image Segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Attention_to_Scale_CVPR_2016_paper.pdf) | UCLA/Baidu | [Code](http://liangchiehchen.com/projects/DeepLab.html)     
