@@ -11,7 +11,7 @@
 	* Image Caption  
         [3]  
 	* Person Re-identification  
-        [4][7][10][12]  
+        [4][7][10][12][14]  
 	* Object Detection   
 		[5]  
 	* Image/Instance Segmentation   
@@ -23,7 +23,7 @@
 	* Attention   
         [3][13]  
 	* GAN  
-        [4][7][8][9]  
+        [4][7][8][9][14]  
 	* Domain Adaption   
 	    [4][6][7][9]      
 	* Clustering   
@@ -43,3 +43,4 @@
 [11] CVPR'18: [FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors](https://arxiv.org/abs/1711.10703) | NUST | [Resource](https://blog.csdn.net/GunGunSeeBlood/article/details/82975076) | [Code](https://github.com/tyshiwo/FSRNet)      
 [12] AAAA'19: [A Bottom-up Clustering Approach to Unsupervised Person Re-identification](http://xuanyidong.com/pdf/AAAI19-vana.pdf) | UTS    
 [13] CVPR'16: [Attention to Scale: Scale-aware Semantic Image Segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Attention_to_Scale_CVPR_2016_paper.pdf) | UCLA, Baidu | [Code](http://liangchiehchen.com/projects/DeepLab.html)     
+[14] NIPS'18: [FD-GAN: Pose-guided Feature Distilling GAN for Robust Person Re-identification](https://arxiv.org/abs/1810.02936) | CUHK, SenseTime | [Code](https://github.com/yxgeee/FD-GAN)    
