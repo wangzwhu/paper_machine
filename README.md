@@ -45,7 +45,39 @@
 [13] CVPR'16: [Attention to Scale: Scale-aware Semantic Image Segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Attention_to_Scale_CVPR_2016_paper.pdf) | UCLA, Baidu | [Code](http://liangchiehchen.com/projects/DeepLab.html)     
 [14] NIPS'18: [FD-GAN: Pose-guided Feature Distilling GAN for Robust Person Re-identification](https://arxiv.org/abs/1810.02936) | CUHK, SenseTime | [Code](https://github.com/yxgeee/FD-GAN)    
 
-[15] CVPR'19: [SoDeep: A Sorting Deep Net to Learn Ranking Loss Surrogates](http://openaccess.thecvf.com/content_CVPR_2019/html/Engilberge_SoDeep_A_Sorting_Deep_Net_to_Learn_Ranking_Loss_Surrogates_CVPR_2019_paper.html)  
 
 
+
+
+Loss:   
+CVPR'19: [SoDeep: A Sorting Deep Net to Learn Ranking Loss Surrogates](http://openaccess.thecvf.com/content_CVPR_2019/html/Engilberge_SoDeep_A_Sorting_Deep_Net_to_Learn_Ranking_Loss_Surrogates_CVPR_2019_paper.html)  
+
+Continues Learning:  
+CVPR'19: [Learning to Remember: A Synaptic Plasticity Driven Framework for Continual Learning](http://openaccess.thecvf.com/content_CVPR_2019/html/Ostapenko_Learning_to_Remember_A_Synaptic_Plasticity_Driven_Framework_for_Continual_CVPR_2019_paper.html)  
+
+Noise Label:  
+CVPR'19: [Weakly Supervised Image Classification Through Noise Regularization](http://openaccess.thecvf.com/content_CVPR_2019/html/Hu_Weakly_Supervised_Image_Classification_Through_Noise_Regularization_CVPR_2019_paper.html)  
+CVPR'19: [Noise-Tolerant Paradigm for Training Face Recognition CNNs](http://openaccess.thecvf.com/content_CVPR_2019/html/Hu_Noise-Tolerant_Paradigm_for_Training_Face_Recognition_CNNs_CVPR_2019_paper.html)  
+CVPR'19: [On Stabilizing Generative Adversarial Training With Noise](http://openaccess.thecvf.com/content_CVPR_2019/html/Jenni_On_Stabilizing_Generative_Adversarial_Training_With_Noise_CVPR_2019_paper.html)   
+CVPR'19: [Probabilistic End-To-End Noise Correction for Learning With Noisy Labels](http://openaccess.thecvf.com/content_CVPR_2019/html/Yi_Probabilistic_End-To-End_Noise_Correction_for_Learning_With_Noisy_Labels_CVPR_2019_paper.html)   
+CVPR'19: [MetaCleaner: Learning to Hallucinate Clean Representations for Noisy-Labeled Visual Recognition](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_MetaCleaner_Learning_to_Hallucinate_Clean_Representations_for_Noisy-Labeled_Visual_Recognition_CVPR_2019_paper.html)   
+
+
+Unbalance Data:   
+CVPR'19: [Learning Not to Learn: Training Deep Neural Networks With Biased Data](http://openaccess.thecvf.com/content_CVPR_2019/html/Kim_Learning_Not_to_Learn_Training_Deep_Neural_Networks_With_Biased_CVPR_2019_paper.html)   
+CVPR'19: [Class-Balanced Loss Based on Effective Number of Samples](http://openaccess.thecvf.com/content_CVPR_2019/html/Cui_Class-Balanced_Loss_Based_on_Effective_Number_of_Samples_CVPR_2019_paper.html)   
+
+Domain Adaptation:   
+CVPR'19: [Unsupervised Domain Adaptation Using Feature-Whitening and Consensus Loss](http://openaccess.thecvf.com/content_CVPR_2019/html/Roy_Unsupervised_Domain_Adaptation_Using_Feature-Whitening_and_Consensus_Loss_CVPR_2019_paper.html)   
+CVPR'19: [Sliced Wasserstein Generative Models](http://openaccess.thecvf.com/content_CVPR_2019/html/Wu_Sliced_Wasserstein_Generative_Models_CVPR_2019_paper.html)   
+CVPR'19: [Domain-Specific Batch Normalization for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_CVPR_2019/html/Chang_Domain-Specific_Batch_Normalization_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.html)   
+
+
+Self-supervised:  
+CVPR'19: [Self-Supervised GANs via Auxiliary Rotation Loss](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_Self-Supervised_GANs_via_Auxiliary_Rotation_Loss_CVPR_2019_paper.html)   
+CVPR'19: [Self-Supervised Representation Learning by Rotation Feature Decoupling](http://openaccess.thecvf.com/content_CVPR_2019/html/Feng_Self-Supervised_Representation_Learning_by_Rotation_Feature_Decoupling_CVPR_2019_paper.html)   
+
+
+memeda:   
+CVPR'19: [Rethinking the Evaluation of Video Summaries](http://openaccess.thecvf.com/content_CVPR_2019/html/Otani_Rethinking_the_Evaluation_of_Video_Summaries_CVPR_2019_paper.html)   
 
