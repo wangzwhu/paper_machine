@@ -44,3 +44,8 @@
 [12] AAAA'19: [A Bottom-up Clustering Approach to Unsupervised Person Re-identification](http://xuanyidong.com/pdf/AAAI19-vana.pdf) | UTS    
 [13] CVPR'16: [Attention to Scale: Scale-aware Semantic Image Segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Attention_to_Scale_CVPR_2016_paper.pdf) | UCLA, Baidu | [Code](http://liangchiehchen.com/projects/DeepLab.html)     
 [14] NIPS'18: [FD-GAN: Pose-guided Feature Distilling GAN for Robust Person Re-identification](https://arxiv.org/abs/1810.02936) | CUHK, SenseTime | [Code](https://github.com/yxgeee/FD-GAN)    
+
+[15] CVPR'19: [SoDeep: A Sorting Deep Net to Learn Ranking Loss Surrogates](http://openaccess.thecvf.com/content_CVPR_2019/html/Engilberge_SoDeep_A_Sorting_Deep_Net_to_Learn_Ranking_Loss_Surrogates_CVPR_2019_paper.html)  
+
+
+
